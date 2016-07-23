@@ -1,0 +1,3 @@
+.ui.checkbox.md-checkbox > input[type=checkbox] {
+  pointer-events: none;
+}
