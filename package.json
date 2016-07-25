@@ -1,5 +1,5 @@
 {
-  "name": "inkdrop-markdown-checkbox",
+  "name": "markdown-checkbox",
   "main": "index",
   "styleSheets": ["checkbox.css"],
   "dependencies": {
