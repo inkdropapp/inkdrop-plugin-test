@@ -2,13 +2,19 @@
   "name": "plugin-test",
   "description": "Add checkbox syntax support to Inkdrop markdown editor",
   "main": "index",
-  "styleSheets": ["checkbox.css"],
+  "styleSheets": [
+    "checkbox.css"
+  ],
   "repository": "inkdropapp/inkdrop-plugin-test",
   "dependencies": {
     "markdown-it-checkbox": "^1.1.0"
   },
   "standard": {
     "parser": "babel-eslint",
-    "globals": [ "inkdrop", "$" ]
-  }
+    "globals": [
+      "inkdrop",
+      "$"
+    ]
+  },
+  "version": "0.0.1"
 }
