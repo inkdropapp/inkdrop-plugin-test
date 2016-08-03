@@ -1,12 +1,9 @@
 {
-  "name": "markdown-checkbox",
+  "name": "plugin-test",
   "description": "Add checkbox syntax support to Inkdrop markdown editor",
   "main": "index",
   "styleSheets": ["checkbox.css"],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/inkdropapp/inkdrop-markdown-checkbox.git"
-  },
+  "repository": "inkdropapp/inkdrop-plugin-test",
   "dependencies": {
     "markdown-it-checkbox": "^1.1.0"
   },
